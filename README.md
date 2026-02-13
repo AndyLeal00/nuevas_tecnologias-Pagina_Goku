@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo crear una página web sobre **Goku**, el perso
 
 Los siguientes colaboradores han trabajado en las distintas partes del proyecto, cada uno en su respectiva rama:
 
-- **Andy**: Rama `Andy` - Creación de la estructura HTML de la página.
+- **Andy**: Rama `Andy` - Creación de la estructura HTML de la página y gestionar los pull request de las diferentes ramas.
 - **Dorian**: Rama `Dorian` - Redacción y recopilación de la información sobre Goku.
 - **Winz**: Rama `Winz` - Diseño y estilización de la página mediante CSS.
 
@@ -16,7 +16,6 @@ Aquí se puede agregar una breve descripción sobre lo que hace el proyecto, tec
 
 - **HTML5** para la estructura básica de la página.
 - **CSS3** para los estilos visuales.
-- **JavaScript** (si se utiliza) para interactividad adicional.
 
 ## Cómo Contribuir
 
