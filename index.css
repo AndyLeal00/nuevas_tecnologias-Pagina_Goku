@@ -59,3 +59,16 @@ section h2 {
     color: #facc15;
 }
 
+
+#referencias ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+#referencias li {
+    margin: 10px 0;
+    background: #1e293b;
+    padding: 10px;
+    border-radius: 8px;
+}
+
