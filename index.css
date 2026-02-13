@@ -48,3 +48,14 @@ nav a:hover {
     color: #facc15;
 }
 
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #facc15;
+}
+
