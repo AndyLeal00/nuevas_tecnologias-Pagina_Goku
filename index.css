@@ -36,3 +36,9 @@ nav a:hover {
     color: #facc15;
 }
 
+#introduccion {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(to right, #1e40af, #2563eb);
+}
+
