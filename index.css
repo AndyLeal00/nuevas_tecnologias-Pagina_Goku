@@ -18,4 +18,9 @@ header {
     top: 0;
 }
 
-
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
+}
